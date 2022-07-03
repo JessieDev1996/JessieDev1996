@@ -24,7 +24,6 @@ Orther Tool :
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31apraeuxxc4z75zrexh4uigbb3i&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 <!---
 JessieDev1996/JessieDev1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
