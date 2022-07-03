@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game Dev
 - 📫 How to reach me javascript
 
-![Alt Text](https://giphy.com/embed/aNqEFrYVnsS52)
+![Alt Text](https://giphy.com/embed/aNqEFrYVnsS52.gif)
 
 
 Languages : 
