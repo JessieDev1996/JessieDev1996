@@ -5,7 +5,7 @@
 - 📫 How to reach me javascript
 
 Languages : 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessieDev1996&layout=compact)](https://github.com/JessieDev1996/JessieDev1996)
