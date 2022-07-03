@@ -4,9 +4,14 @@
 - 💞️ I’m looking to collaborate on Game Dev
 - 📫 How to reach me javascript
 
-Languages : ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+Languages : 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 
 <!---
 JessieDev1996/JessieDev1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
