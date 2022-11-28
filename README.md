@@ -25,7 +25,6 @@ Orther Tool :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessieDev1996&layout=compact)](https://github.com/JessieDev1996/JessieDev1996)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 <!---
