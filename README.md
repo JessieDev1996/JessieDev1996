@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @JessieDev1996
-- 👀 I’m interested in Vue
-- 🌱 I’m currently learning Vuejs
-- 💞️ I’m looking to collaborate on Game Dev
-- 📫 How to reach me javascript
+
 
 ![Alt Text](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
